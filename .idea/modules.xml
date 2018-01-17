@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-data-mongodb-example.iml" filepath="$PROJECT_DIR$/spring-boot-data-mongodb-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-data-mongodb-example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-data-mongodb-example_main.iml" group="spring-boot-data-mongodb-example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-data-mongodb-example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-data-mongodb-example_test.iml" group="spring-boot-data-mongodb-example" />
+    </modules>
+  </component>
+</project>
